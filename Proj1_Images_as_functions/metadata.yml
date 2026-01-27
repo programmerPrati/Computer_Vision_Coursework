@@ -1,0 +1,12 @@
+---
+:id: 348452388
+:submitters:
+- :name: Prati Solanki
+  :email: u1363835@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-09-18 05:59:03.220394000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-09-17 22:59:03.220394000 Z
+:status: processed
+:score: 89.0
