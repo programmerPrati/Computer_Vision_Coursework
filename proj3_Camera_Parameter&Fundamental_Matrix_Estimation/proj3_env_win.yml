@@ -1,0 +1,19 @@
+name: proj3
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.9.18
+  - numpy=1.26.4
+  - scipy=1.11.4
+  - pytorch=2.1.2
+  - torchvision=0.16.2
+  - cpuonly
+  - matplotlib=3.8.2
+  - jupyter=1.0.0
+  - pytest=7.4.4
+  - pyyaml=6.0.1
+  - pip
+  - pip:
+      - opencv-python==4.9.0.80
