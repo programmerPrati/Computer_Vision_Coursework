@@ -45,3 +45,4 @@ This repository contains a series of projects developed for my Computer Vision c
 * **Programming & Tools:** Advanced **Python** implementation using NumPy for matrix manipulation and vectorized operations.
 
 
+Setup files should be included with each project
